@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">my BMI</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="subtitle">Calculate your Body Mass Index</string>
+    <string name="height_label">Height</string>
+    <string name="weight_label">Weight</string>
+    <string name="height_hint">Enter height (cm)</string>
+    <string name="weight_hint">Enter weight (kg)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="bmi_result_format">BMI: %.2f</string>
+    <string name="category_underweight">Underweight</string>
+    <string name="category_normal">Normal Weight</string>
+    <string name="category_overweight">Overweight</string>
+    <string name="category_obese">Obese</string>
+    <string name="msg_underweight">You are underweight. It\'s important to eat a balanced diet and consult a nutritionist.</string>
+    <string name="msg_normal">You have a healthy weight. Keep maintaining a balanced diet and exercise regularly.</string>
+    <string name="msg_overweight">You are overweight. Consider a balanced diet and increasing physical activity.</string>
+    <string name="msg_obese">You are in the obese category. It\'s recommended to consult with a healthcare provider for a personalized health plan.</string>
+    <string name="invalid_input">Please enter valid height and weight</string>
+    <string name="reset">Reset</string>
+</resources>
